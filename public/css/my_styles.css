@@ -1,0 +1,14 @@
+.pretty-button {
+  background-color: #3498db;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.pretty-button:hover {
+  background-color: #2980b9;
+}
+
+.pretty-button:active {
+  background-color: #34495e;
+}
